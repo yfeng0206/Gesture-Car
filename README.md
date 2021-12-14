@@ -242,7 +242,3 @@ https://docs.google.com/presentation/d/1Q2dnvHehjRTc9gWVgPLmKQxMYCxeDP0f9oN5fYWS
 
 [back to top](README.md#hand-gesture-controlled-robot-through-opencv-and-an-iot-webserver-cvcar)
 
-# Final Demo Submission
-Due to connectivity issue with GTother on campus, Dr. Hamblen has allowed the team to submit a longer video demo instead of an in-person demonstration. If he would like it to be a part of the GitHub, it will be posted here. (comment made 12/9/2021 - Faiza Yousuf)
-
-
