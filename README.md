@@ -1,4 +1,4 @@
-# Hand Gesture Controlled Robot through OpenCV and an IoT Webserver "CVcar"
+# Hand Gesture Controlled Robot through OpenCV and an IoT Webserver "Gestron"
 ECE 4180 Final Project (Fall 2021 - Section A)
 
 <img src="https://user-images.githubusercontent.com/78784280/145456514-06a19176-1532-46f3-b22f-5fb9e83ddda6.jpeg" width="850">
